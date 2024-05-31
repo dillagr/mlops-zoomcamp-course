@@ -1,0 +1,9 @@
+nyc_taxi_training_set:
+  object_type: pipeline
+  object_uuid: data_preparation
+  outdated_after:
+    months: 1
+  project: homework_03
+  repo_path: /home/src/mlops/homework_03
+  settings:
+    clean_dataset: {}
